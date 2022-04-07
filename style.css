@@ -1,0 +1,22 @@
+header{
+    background-color: blueviolet;
+    padding: 10px;
+}
+section{}
+section div:first-child{
+    background-color: aqua;
+    padding-top: 10px;
+    padding-right: 200px;
+    padding-bottom: 60px;
+    padding-left: 200px;
+    display: inline;
+} 
+section div:nth-child{
+    background-color:blue;
+    padding-top: 10px;
+    padding-right: 200px;
+    padding-bottom: 60px;
+    padding-left: 200px;
+    display: inline;
+
+}
